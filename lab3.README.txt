@@ -1,1 +1,11 @@
-name, date, description
+Donald Disha
+03/04/2015
+
+My program presents a blue 3D trapezoid that is rotated:
+-left arrow - rotate counterclockwise about the Y axis
+-right arrow - rotate clockwise about the Y axis
+-up arrow - rotate counterclockwise about the X axis
+-down arrow - rotate clockwise about the X axis
+
+Light is being shone via the phong lighting model and I used a perspective projection matrix to show the shape.
+
